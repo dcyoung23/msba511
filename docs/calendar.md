@@ -1,15 +1,4 @@
-### Important Dates
-
-See [Academic Calendar](https://www.sandiego.edu/documents/approved-calendar-2025-2026.pdf)
-
-- **January 30**: Classes Begin 
-- **March 10-14**: Spring Break 
-- **April 17-21**: Easter Holiday 
-- **May 16**: Last Day of Classes 
-- **May 17-18**: Study Days 
-- **May 19-23**: Final Examinations 
-- **May 24-25**: Commencement 
-- **May 26**: Memorial Day
+### Schedule
   
 The table below links to notes, reading, and homework for each week. The topics and order are subject to change as the course progresses.
 
@@ -31,4 +20,17 @@ The table below links to notes, reading, and homework for each week. The topics 
 | 13. Project Work                                            | 5/5/2025         |                      |                      |                      |
 | 14. Exam Review / Project Presentations                     | 5/12/2025        |                      |                      |                      |
 | 15. **Exam 2**                                              | 5/19/2025        |                      |                      |                      |
+
+### Important Dates
+
+See [Academic Calendar](https://www.sandiego.edu/documents/approved-calendar-2025-2026.pdf)
+
+- **January 30**: Classes Begin 
+- **March 10-14**: Spring Break 
+- **April 17-21**: Easter Holiday 
+- **May 16**: Last Day of Classes 
+- **May 17-18**: Study Days 
+- **May 19-23**: Final Examinations 
+- **May 24-25**: Commencement 
+- **May 26**: Memorial Day
 

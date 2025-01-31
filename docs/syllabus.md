@@ -43,11 +43,11 @@ This is a data mining class and we will be primarily using Python and Jupyter No
 
 | Assignment                                    | % of Total Grade |   500 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
-| 8 Homeworks                                   |               16 |    80 (10 each)    |
-| 4 Programming Assignments                     |               12 |    60 (15 each)    |
+| 8 Homeworks                                   |               24 |    120 (15 each)   |
+| 4 Programming Assignments                     |               16 |    80 (20 each)    |
 | 1 Case Study and 1 Hackathon                  |               12 |    60 (30 each)    |
-| 1 Group Project                               |               20 |    100             |
-| 2 Exams                                       |               40 |    200 (100 each)  |
+| 1 Group Project                               |               16 |    80              |
+| 2 Exams                                       |               32 |    160 (80 each)   |
 
 ### Grading Scale
 
