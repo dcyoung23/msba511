@@ -18,7 +18,7 @@ The table below links to notes, reading, and homework for each week. The topics 
 | 11. Hackathon                                               | 4/21/2025        |                      |                      |                            |
 | 12. Text Mining                                             | 4/28/2025        |                      |    20                |     HW8, Project Proposal  |
 | 13. Project Work                                            | 5/5/2025         |                      |                      |                            |
-| 14. Exam Review / Project Presentations                     | 5/12/2025        |                      |                      |     Final Project          |
+| 14. Project Presentations / Exam Review                     | 5/12/2025        |                      |                      |     Final Project          |
 | 15. **Exam 2**                                              | 5/19/2025        |                      |                      |                            |
 
 ### Important Dates
