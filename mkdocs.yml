@@ -6,6 +6,11 @@ nav:
   - Calendar: calendar.md
   - Notes:
     - Week 1 - Intro / Association Rules: notes/week_1.md
+  - Resources:
+    - Python:
+      - Command Line Cheatsheet: resources/python/cl_cheatsheet.md
+    - Chapter Code Examples:
+      - Chapter 14: resources/textbook/ch14_code_examples.md
   - Canvas: http://canvas.sandiego.edu/
   - Gradescope: https://www.gradescope.com/
 theme:
