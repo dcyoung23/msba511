@@ -5,8 +5,7 @@
 | `conda search --full-name python`                  | Searches conda channels for the current versions of python that are available.                                                 |
 | `conda env list`                                   | List out all conda environments on computer.                                                                                   |
 | `conda create -n myenv python=3.12.7`              | Create a new environment with the specified version of Python and minimal packages. Replace `myenv` with the desired name of the new environment and `3.12.7` with the desired Python version.                                                 |
-| `conda env remove -n myenv`                        | Remove environment from your computer. You cannot have the current environment activated. Replace `myenv` with the name of the environment that you want to remove. ⚠️Warning ⚠️ this deletes the env folder from your computer!
-                                                 |
+| `conda env remove -n myenv`                        | Remove environment from your computer. You cannot have the current environment activated. Replace `myenv` with the name of the environment that you want to remove. ⚠️Warning ⚠️ this deletes the env folder from your computer! |
 | `conda deactivate`                                 | Deactivate current environment.                                                                                                |
 | `conda activate myenv`                             | Activate specified environment. Replace `myenv` with the name of the environment that you want to activate.                                            |
 | `pip list`                                         | Use pip to list installed packages and version. Similar to conda list.                                                         |
