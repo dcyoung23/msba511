@@ -51,11 +51,16 @@ This is a data mining class and we will be primarily using Python and Jupyter No
 
 | Assignment                                    | % of Total Grade |   500 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
-| 8 Homeworks                                   |               24 |    120 (15 each)   |
+| 8 Conceptual Homework Assignments             |               24 |    120 (15 each)   |
 | 4 Programming Assignments                     |               16 |    80 (20 each)    |
 | 1 Case Study and 1 Hackathon                  |               12 |    60 (30 each)    |
 | 1 Group Project                               |               16 |    80              |
 | 2 Exams                                       |               32 |    160 (80 each)   |
+
+Please be aware of the following acronyms:
+
+* **HW** = Conceptual homework assignments completed in a document format
+* **PA** = Programming assignments completed in Python/Jupyter Notebook
 
 ### Grading Scale
 
