@@ -8,9 +8,9 @@
 ### Class Agenda
 
 - Course Overview
-- Introduction Slides
+- [Introduction Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/0_Introduction.pdf)
 - `[5 min]` Break
-- Association Rules Slides
+- [Association Rules Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/1_Association_Rules.pdf)
 
 ### Task List
 
