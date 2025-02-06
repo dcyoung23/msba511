@@ -2,7 +2,7 @@
 <h3>MSBA 511: University of San Diego - Spring 2025</h3>
 
 **Day/Time**: Mon 4:00PM - 6:50PM  
-**Location**: LC204
+**Location**: KCBE-104
 
 ### **About the Course**
 

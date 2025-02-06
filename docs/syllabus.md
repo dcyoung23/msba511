@@ -10,7 +10,7 @@ In today’s data-driven world, organizations often find themselves rich in data
 
 **Dates**: 3-Feb-2025 - 19-May-2025  
 **Day/Time**: Mon 4:00PM - 6:50PM  
-**Location**: LC204
+**Location**: KCBE-104
 
 ### Instructor Information
 **Instructor**: Chris Young, MBA  
