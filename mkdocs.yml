@@ -6,6 +6,7 @@ nav:
   - Calendar: calendar.md
   - Notes:
     - Week 1 - Intro / Association Rules: notes/week_1.md
+    - Week 2 - Collaborative Filtering: notes/week_2.md
   - Resources:
     - Python:
       - Command Line Cheatsheet: resources/python/cl_cheatsheet.md
