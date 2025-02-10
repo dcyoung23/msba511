@@ -9,10 +9,10 @@
 ### Class Agenda
 
 - [Python Conda Environment Setup](../resources/python/cl_cheatsheet.md)
-- [Association Rules Python Demo](https://github.com/dcyoung23/msba511/tree/main/resources/demos/1_assocation_rules_starter.ipynb)
+- [Association Rules Python Demo](https://github.com/dcyoung23/msba511/blob/main/resources/demos/1_association_rules_starter.ipynb)
 - `[5 min]` Break
 - [Collaborative Filtering Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/2_Collaborative_Filtering.pdf)
-- [Collaborative Filtering Python Demo](https://github.com/dcyoung23/msba511/tree/main/resources/demos/2_collaborative_filtering_starter.ipynb)
+- [Collaborative Filtering Python Demo](https://github.com/dcyoung23/msba511/blob/main/resources/demos/2_collaborative_filtering_starter.ipynb)
 
 ### Task List
 
