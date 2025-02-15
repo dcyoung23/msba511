@@ -12,6 +12,7 @@ nav:
       - Command Line Cheatsheet: resources/python/cl_cheatsheet.md
     - Chapter Code Examples:
       - Chapter 14: resources/textbook/ch14_code_examples.md
+      - Chapter 15: resources/textbook/ch15_code_examples.md
   - Canvas: http://canvas.sandiego.edu/
   - Gradescope: https://www.gradescope.com/
 theme:
