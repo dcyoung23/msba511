@@ -4,7 +4,7 @@
 
 *Modifications* have been made from the original textbook examples due to version changes in library dependencies and/or for clarity.
 
-Download this notebook and data [**here**](https://github.com/dcyoung23/msba511/resources/examples).
+Download this notebook and data [**here**](https://github.com/dcyoung23/msba511/tree/main/resources/examples).
 
 ### Import Libraries
 
