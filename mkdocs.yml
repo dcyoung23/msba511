@@ -7,14 +7,14 @@ nav:
   - Notes:
     - Week 1 - Intro / Association Rules: notes/week_1.md
     - Week 2 - Collaborative Filtering: notes/week_2.md
+    - Week 3 - Cluster Analysis: notes/week_3.md
   - Resources:
     - Python:
       - Command Line Cheatsheet: resources/python/cl_cheatsheet.md
     - Chapter Code Examples:
       - Chapter 14: resources/textbook/ch14_code_examples.md
       - Chapter 15: resources/textbook/ch15_code_examples.md
-  - Canvas: http://canvas.sandiego.edu/
-  - Gradescope: https://www.gradescope.com/
+  - Links: links.md
 theme:
   name: material
   font:
