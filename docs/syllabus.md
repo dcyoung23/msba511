@@ -49,13 +49,13 @@ This is a data mining class and we will be primarily using Python and Jupyter No
 
 ### Grade Distribution
 
-| Assignment                                    | % of Total Grade |   500 Total Points |
+| Assignment                                    | % of Total Grade |   450 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
-| 8 Conceptual Homework Assignments             |               24 |    120 (15 each)   |
-| 4 Programming Assignments                     |               16 |    80 (20 each)    |
-| 1 Case Study and 1 Hackathon                  |               12 |    60 (30 each)    |
-| 1 Group Project                               |               16 |    80              |
-| 2 Exams                                       |               32 |    160 (80 each)   |
+| 6 Conceptual Homework Assignments             |               20 |    90 (15 each)    
+| 4 Programming Assignments                     |               18 |    80 (20 each)    |
+| 1 Hackathon                                   |               9  |    40              |
+| 1 Group Project                               |               18 |    80              |
+| 2 Exams                                       |               36 |    160 (80 each)   |
 
 Please be aware of the following acronyms:
 
