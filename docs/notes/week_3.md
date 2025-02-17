@@ -11,6 +11,7 @@
 - [Cluster Analysis Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/3_Cluster_Analysis.pdf)
 - `[5 min]` Break
 - [Cluster Analysis Python Demo](https://github.com/dcyoung23/data-mining-examples/blob/main/notebooks/3_cluster_analysis_starter.ipynb)
+- `[30 min]` Python Q&A/Debugging Help
 
 ### Task List
 
