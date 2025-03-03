@@ -8,7 +8,7 @@ The table below links to notes, reading, and homework for each week. The topics 
 | [2. Collaborative Filtering](notes/week_2.md)               | 2/10/2025        |                      |    14.2              |     PA1                    |
 | [3. Cluster Analysis](notes/week_3.md)                      | 2/17/2025        |     3-4              |    15                |     HW2                    |
 | [4. Classification / Decision Trees](notes/week_4.md)       | 2/24/2025        |                      |    9.1-9.5           |     PA2                    |
-| 5. Evaluating Classifiers / Exam Review                     | 3/3/2025         |                      |    5                 |     HW3                    |
+| [5. Evaluating Classifiers / Exam Review](notes/week_5.md)  | 3/3/2025         |                      |    5.3               |     HW3                    |
 | **Spring Break**: (March 10-14: No Classes)                 |
 | 6. **Exam 1**                                               | 3/17/2025        |                      |                      |     PA3                    |
 | 7. KNN / Naive Bayes Classifier                             | 3/24/2025        |                      |    7 - 8             |     HW4                    |
