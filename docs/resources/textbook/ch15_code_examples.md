@@ -1280,7 +1280,7 @@ plt.show()
 
 
     
-![png](assets\ch15_output_9_0.png)
+![png](../textbook/assets/ch15_output_9_0.png)
     
 
 
@@ -1329,7 +1329,7 @@ plt.show()
 
 
     
-![png](assets\ch15_output_12_0.png)
+![png](../textbook/assets/ch15_output_12_0.png)
     
 
 
@@ -1501,7 +1501,7 @@ plt.show()
 
 
     
-![png](assets\ch15_output_17_0.png)
+![png](../textbook/assets/ch15_output_17_0.png)
     
 
 
@@ -1522,7 +1522,7 @@ plt.show()
 
 
     
-![png](assets\ch15_output_18_0.png)
+![png](../textbook/assets/ch15_output_18_0.png)
     
 
 

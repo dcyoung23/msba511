@@ -48,7 +48,7 @@ plotDecisionTree(classTree, feature_names=mower_df.columns[:2],
 
 
     
-![png](assets\ch9_output_6_1.png)
+![png](../textbook/assets/ch9_output_6_1.png)
     
 
 
@@ -78,7 +78,7 @@ plotDecisionTree(fullClassTree, feature_names=train_X.columns)
 
 
     
-![png](assets\ch9_output_9_0.png)
+![png](../textbook/assets/ch9_output_9_0.png)
     
 
 
@@ -132,7 +132,7 @@ plotDecisionTree(smallClassTree, feature_names=train_X.columns)
 
 
     
-![png](assets\ch9_output_13_0.png)
+![png](../textbook/assets/ch9_output_13_0.png)
     
 
 
@@ -229,7 +229,7 @@ plotDecisionTree(bestClassTree, feature_names=train_X.columns)
 
 
     
-![png](assets\ch9_output_18_0.png)
+![png](../textbook/assets/ch9_output_18_0.png)
     
 
 
@@ -343,7 +343,7 @@ classificationSummary(valid_y, rf.predict(valid_X))
 
 
     
-![png](assets\ch9_output_22_1.png)
+![png](../textbook/assets/ch9_output_22_1.png)
     
 
 
