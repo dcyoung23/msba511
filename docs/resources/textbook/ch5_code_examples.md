@@ -252,7 +252,7 @@ plt.show()
 
 
     
-![png](assets\ch5_output_9_0.png)
+![png](../textbook/assets/ch5_output_9_0.png)
     
 
 
@@ -277,7 +277,7 @@ plt.show()
 
 
     
-![png](assets\ch5_output_10_0.png)
+![png](../textbook/assets/ch5_output_10_0.png)
     
 
 
@@ -293,7 +293,7 @@ plt.show()
 
 
     
-![png](assets\ch5_output_12_0.png)
+![png](../textbook/assets/ch5_output_12_0.png)
     
 
 
@@ -306,7 +306,7 @@ plt.show()
 
 
     
-![png](assets\ch5_output_13_0.png)
+![png](../textbook/assets/ch5_output_13_0.png)
     
 
 
