@@ -1,5 +1,7 @@
 site_name: MSBA 511, Spring 2025
 site_url: https://dcyoung23.github.io/msba511/
+repo_url: https://github.com/dcyoung23/msba511
+repo_name: MSBA 511
 nav:
   - Home: index.md
   - Syllabus: syllabus.md
@@ -10,6 +12,7 @@ nav:
     - Week 3 - Cluster Analysis: notes/week_3.md
     - Week 4 - Classification / Decision Trees: notes/week_4.md
     - Week 5 - Evaluating Classifiers: notes/week_5.md
+    - Week 6 - Exam 1: notes/week_6.md
   - Resources:
     - Python:
       - Command Line Cheatsheet: resources/python/cl_cheatsheet.md
@@ -23,6 +26,8 @@ theme:
   name: material
   font:
     text: Roboto
+  icon:
+    repo: fontawesome/brands/github
   features:
     - content.code.annotate
     - content.code.copy
@@ -64,5 +69,13 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/dcyoung23
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/dcyoung23/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@Professor-Young
 extra_css:
   - css/extra.css
