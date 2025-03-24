@@ -15,7 +15,7 @@
 ### Task List
 
 - [x] **Optional** Reading: Chapters 1-2 - Introduction and Overview of Data Mining
-- [x] **Required** Reading: Chapters 14.1 - Association Rules
+- [x] **Required** Reading: Chapter 14.1 - Association Rules
 - [x] **Complete** and **Submit** [HW1_Association_Rules](https://github.com/dcyoung23/msba511/blob/main/assignments/homework/HW1_Association_Rules.pdf) on Canvas/Gradescope.
 
 ### Additional Resources

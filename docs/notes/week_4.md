@@ -14,7 +14,7 @@
 
 ### Task List
 
-- [x] **Required** Reading: Chapters 9.1-9.5 - Classification and Regression Trees
+- [x] **Required** Reading: Chapter 9.1-9.5 - Classification and Regression Trees
 - [x] **Complete** and **Submit** [PA2_Wine_Customer_Segmentation](https://github.com/dcyoung23/msba511/tree/main/assignments/programming/PA2_Wine_Customer_Segmentation) on Canvas/Gradescope.
 
 ### Additional Resources

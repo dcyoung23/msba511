@@ -12,7 +12,7 @@
 
 ### Task List
 
-- [x] **Required** Reading: Chapters 5.3 - Judging Classifier Performance
+- [x] **Required** Reading: Chapter 5.3 - Judging Classifier Performance
 - [x] **Complete** and **Submit** [HW3_Decision_Trees](https://github.com/dcyoung23/msba511/blob/main/assignments/homework/HW3_Decision_Trees.pdf) on Canvas/Gradescope.
 
 ### Additional Resources

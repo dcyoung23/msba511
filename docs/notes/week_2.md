@@ -16,7 +16,7 @@
 
 ### Task List
 
-- [x] **Required** Reading: Chapters 14.2 - Collaborative Filtering
+- [x] **Required** Reading: Chapter 14.2 - Collaborative Filtering
 - [x] **Complete** and **Submit** [PA1_Instacart_Recommendations](https://github.com/dcyoung23/msba511/tree/main/assignments/programming/PA1_Instacart_Recommendations) on Canvas/Gradescope.
 
 ### Additional Resources

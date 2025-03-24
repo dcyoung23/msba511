@@ -16,7 +16,7 @@
 ### Task List
 
 - [x] **Optional** Reading: Chapters 3-4 - Data Visualization and Dimension Reduction
-- [x] **Required** Reading: Chapters 15 - Cluster Analysis
+- [x] **Required** Reading: Chapter 15 - Cluster Analysis
 - [x] **Complete** and **Submit** [HW2_Cluster_Analysis](https://github.com/dcyoung23/msba511/blob/main/assignments/homework/HW2_Cluster_Analysis.pdf) on Canvas/Gradescope.
 - [x] **Complete** and **Submit** [PA1_Instacart_Recommendations](https://github.com/dcyoung23/msba511/tree/main/assignments/programming/PA1_Instacart_Recommendations) on Canvas/Gradescope.
 
