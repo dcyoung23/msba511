@@ -10,11 +10,11 @@ The table below links to notes, reading, and homework for each week. The topics 
 | [4. Classification / Decision Trees](notes/week_4.md)       | 2/24/2025        |                      |    9.1-9.5           |     PA2                    |
 | [5. Evaluating Classifiers / Exam Review](notes/week_5.md)  | 3/3/2025         |                      |    5.3               |     HW3                    |
 | **Spring Break**: (March 10-14: No Classes)                 |
-| 6. **Exam 1**                                               | 3/17/2025        |                      |                      |     PA3                    |
-| 7. KNN / Naive Bayes Classifier                             | 3/24/2025        |                      |    7 - 8             |     HW4                    |
-| 8. Logistic Regression                                      | 3/31/2025        |                      |    10                |     PA4                    |
-| 9. Random Forest / Boosted Trees                            | 4/7/2025         |                      |    9.7 - 9.9         |     HW5                    |
-| 10. Ensembles                                               | 4/14/2025        |                      |    13                |     Project Proposal       |
+| 6. [**Exam 1**](notes/week_6.md)                            | 3/17/2025        |                      |                      |     PA3                    |
+| 7. [k-Nearest Neighbors Classifier](notes/week_7.md)        | 3/24/2025        |                      |    7                 |     HW4                    |
+| 8. Naive Bayes Classifier                                   | 3/31/2025        |                      |    8                 |     HW5                    |
+| 9. Logistic Regression                                      | 4/7/2025         |                      |    10                |     Project Proposal       |
+| 10. Random Forest / Boosted Trees / Ensembles               | 4/14/2025        |                      |    9.7-9.9, 13       |     PA4                    |
 | **Easter Holiday**: (April 17-21: No Classes)               |                  
 | 11. Hackathon                                               | 4/28/2025        |                      |                      |                            |
 | 12. Text Mining / Project Work                              | 5/5/2025         |                      |    20                |     HW6                    |
