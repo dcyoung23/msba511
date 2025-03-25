@@ -13,6 +13,7 @@ nav:
     - Week 4 - Classification / Decision Trees: notes/week_4.md
     - Week 5 - Evaluating Classifiers: notes/week_5.md
     - Week 6 - Exam 1: notes/week_6.md
+    - Week 7 - k-Nearest Neighbors: notes/week_7.md
   - Resources:
     - Python:
       - Command Line Cheatsheet: resources/python/cl_cheatsheet.md

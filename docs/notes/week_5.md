@@ -6,7 +6,7 @@
     
 ### Class Agenda
 
-- [Evaluating Classifiers](https://github.com/dcyoung23/msba511/blob/main/lectures/5_Evaluating_Classifiers.pdf)
+- [Evaluating Classifiers Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/5_Evaluating_Classifiers.pdf)
 - `[5 min]` Break
 - Exam Review/Overview
 
