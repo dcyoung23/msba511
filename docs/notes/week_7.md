@@ -15,7 +15,7 @@
 ### Task List
 
 - [x] **Required** Reading: Chapter 7 - k-Nearest Neighbors (k-NN)
-- [x] **Complete** and **Submit** [HW4_k-Nearest_Neighbors.pdf](https://github.com/dcyoung23/msba511/blob/main/assignments/homework/HW4_k-Nearest_Neighbors.pdf) on Canvas/Gradescope.
+- [x] **Complete** and **Submit** [HW4_k-Nearest_Neighbors](https://github.com/dcyoung23/msba511/blob/main/assignments/homework/HW4_k-Nearest_Neighbors.pdf) on Canvas/Gradescope.
 
 ### Additional Resources
 
