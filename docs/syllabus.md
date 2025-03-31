@@ -15,7 +15,7 @@ In today’s data-driven world, organizations often find themselves rich in data
 ### Instructor Information
 **Instructor**: Chris Young, MBA  
 **Email**: dcyoung@sandiego.edu  
-**Office Hours**: Mon 3:30-4:00PM in LC204 or [by appointment](https://calendly.com/professor-cyoung/student-hours)
+**Office Hours**: Mon 3:00-4:00PM in KCBE-218 or [by appointment](https://calendly.com/professor-cyoung/student-hours)
 
 
 ### Course Learning Outcomes
