@@ -14,12 +14,14 @@ nav:
     - Week 5 - Evaluating Classifiers: notes/week_5.md
     - Week 6 - Exam 1: notes/week_6.md
     - Week 7 - k-Nearest Neighbors: notes/week_7.md
+    - Week 8 - Naive Bayes: notes/week_8.md
   - Resources:
     - Python:
       - Command Line Cheatsheet: resources/python/cl_cheatsheet.md
     - Chapter Code Examples:
       - Chapter 5: resources/textbook/ch5_code_examples.md
       - Chapter 7: resources/textbook/ch7_code_examples.md
+      - Chapter 8: resources/textbook/ch8_code_examples.md
       - Chapter 9: resources/textbook/ch9_code_examples.md
       - Chapter 14: resources/textbook/ch14_code_examples.md
       - Chapter 15: resources/textbook/ch15_code_examples.md
