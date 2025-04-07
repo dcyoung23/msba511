@@ -13,7 +13,7 @@ The table below links to notes, reading, and homework for each week. The topics 
 | 6. [**Exam 1**](notes/week_6.md)                            | 3/17/2025        |                      |                      |     PA3                    |
 | 7. [k-Nearest Neighbors Classifier](notes/week_7.md)        | 3/24/2025        |                      |    7                 |     HW4                    |
 | 8. [Naive Bayes Classifier](notes/week_8.md)                | 3/31/2025        |                      |    8                 |     HW5                    |
-| 9. Logistic Regression                                      | 4/7/2025         |                      |    10                |     Project Proposal       |
+| 9. [Logistic Regression](notes/week_9.md)                   | 4/7/2025         |     6                |    10                |     Project Proposal       |
 | 10. Random Forest / Boosted Trees / Ensembles               | 4/14/2025        |                      |    9.7-9.9, 13       |     PA4                    |
 | **Easter Holiday**: (April 17-21: No Classes)               |                  
 | 11. Hackathon                                               | 4/28/2025        |                      |                      |                            |
