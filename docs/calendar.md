@@ -4,17 +4,17 @@ The table below links to notes, reading, and homework for each week. The topics 
 
 | Week / Topic(s)                                             | Class Date       |   Optional Reading   |   Required Reading   | Assignments                |
 |:------------------------------------------------------------|:-----------------|:---------------------|:---------------------|:---------------------------|
-| [1. Introduction & Association Rules](notes/week_1.md)      | 2/3/2025         |     1-2              |    14.1              |     HW1                    |
-| [2. Collaborative Filtering](notes/week_2.md)               | 2/10/2025        |                      |    14.2              |     PA1                    |
-| [3. Cluster Analysis](notes/week_3.md)                      | 2/17/2025        |     3-4              |    15                |     HW2                    |
-| [4. Classification / Decision Trees](notes/week_4.md)       | 2/24/2025        |                      |    9.1-9.5           |     PA2                    |
-| [5. Evaluating Classifiers / Exam Review](notes/week_5.md)  | 3/3/2025         |                      |    5.3               |     HW3                    |
+| 1. [Introduction & Association Rules](notes/week_1.md)      | 2/3/2025         |     1-2              |    14.1              |     HW1                    |
+| 2. [Collaborative Filtering](notes/week_2.md)               | 2/10/2025        |                      |    14.2              |     PA1                    |
+| 3. [Cluster Analysis](notes/week_3.md)                      | 2/17/2025        |     3-4              |    15                |     HW2                    |
+| 4. [Classification / Decision Trees](notes/week_4.md)       | 2/24/2025        |                      |    9.1-9.5           |     PA2                    |
+| 5. [Evaluating Classifiers / Exam Review](notes/week_5.md)  | 3/3/2025         |                      |    5.3               |     HW3                    |
 | **Spring Break**: (March 10-14: No Classes)                 |
 | 6. [**Exam 1**](notes/week_6.md)                            | 3/17/2025        |                      |                      |     PA3                    |
 | 7. [k-Nearest Neighbors Classifier](notes/week_7.md)        | 3/24/2025        |                      |    7                 |     HW4                    |
 | 8. [Naive Bayes Classifier](notes/week_8.md)                | 3/31/2025        |                      |    8                 |     HW5                    |
 | 9. [Logistic Regression](notes/week_9.md)                   | 4/7/2025         |     6                |    10                |     Project Proposal       |
-| 10. Random Forest / Boosted Trees / Ensembles               | 4/14/2025        |                      |    9.7-9.9, 13       |     PA4                    |
+| 10. [Ensembles](notes/week_10.md)                           | 4/14/2025        |                      |    9.7-9.9, 13       |     PA4                    |
 | **Easter Holiday**: (April 17-21: No Classes)               |                  
 | 11. Hackathon                                               | 4/28/2025        |                      |                      |                            |
 | 12. Text Mining / Project Work                              | 5/5/2025         |                      |    20                |     HW6                    |
