@@ -14,7 +14,7 @@
 
 ### Task List
 
-- [ ] **Optional** Reading: Chapters 6 - Multiple Linear Regression
+- [ ] **Optional** Reading: Chapter 6 - Multiple Linear Regression
 - [x] **Required** Reading: Chapter 10 - Logistic Regression
 - [x] **Complete** and **Submit** Group Project Proposal (10 Points) on **Canvas**.
 
