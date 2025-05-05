@@ -49,9 +49,9 @@ This is a data mining class and we will be primarily using Python and Jupyter No
 
 ### Grade Distribution
 
-| Assignment                                    | % of Total Grade |   450 Total Points |
+| Assignment                                    | % of Total Grade |   435 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
-| 6 Conceptual Homework Assignments             |               20 |    90 (15 each)    
+| 5 Conceptual Homework Assignments             |               20 |    75 (15 each)    
 | 4 Programming Assignments                     |               18 |    80 (20 each)    |
 | 1 Hackathon                                   |               9  |    40              |
 | 1 Group Project                               |               18 |    80              |
@@ -64,7 +64,7 @@ Please be aware of the following acronyms:
 
 ### Grading Scale
 
-| Final Grade    | % of 500 Points |
+| Final Grade    | % of 435 Points |
 |:---------------|:----------------|
 | A              | >=93%           |
 | A-             | 90-92.99%       |
@@ -82,7 +82,7 @@ Please be aware of the following acronyms:
 Assignment and Exam grades are released typically a week after the submission date. It is your responsibility to check your grade and reach out if you believe there is a problem. Final Grades are not rounded up.
 
 ### Conceptual Homework
-There are eight (8) conceptual homework assignments that focus on understanding key concepts and solving problems step-by-step by hand, rather than relying on programmatic solutions. While you are allowed to use Python/AI tools to support your learning during homework, it is essential to ensure you fully understand the reasoning and process behind the solutions. AI will **not** be permitted during exams, so developing your ability to work through problems independently is critical for success. 
+There are five (5) conceptual homework assignments that focus on understanding key concepts and solving problems step-by-step by hand, rather than relying on programmatic solutions. While you are allowed to use Python/AI tools to support your learning during homework, it is essential to ensure you fully understand the reasoning and process behind the solutions. AI will **not** be permitted during exams, so developing your ability to work through problems independently is critical for success. 
 
 !!! tip
     Use these assignments as an opportunity to practice and solidify your understanding, so you’re well-prepared for exam-style questions.
@@ -90,8 +90,8 @@ There are eight (8) conceptual homework assignments that focus on understanding 
 ### Programming Assignments
 There are four (4) homework assignments consisting of problem-solving and Python based programming assignments. The purpose is to provide students with the opportunity to apply and practice the concepts and skills learned in the lectures and demos. Homeworks may be difficult and require you to demonstrate a deeper understanding of the material.
 
-### Case Study and Group Project
-There is one (1) case study and group project that you will be able to collaborate with 1 other classmate. For the case study, you will choose from a list of the cases in the textbook and apply the relevant concepts that we have learned. For the group project, you will pick your own dataset and identify the problem statement and prepare your own analysis and presentation of your findings at the end of the semester.
+### Group Project
+There is one (1) group project that you will be able to collaborate with 3-5 classmates. You will pick your own dataset and identify the problem statement and prepare your own analysis and presentation of your findings at the end of the semester.
 
 ### Exams
 Both exams are open-note and completed by yourself with no collaboration/communication with any other students. You will **not** be able to use a computer during exams. No late exams are permitted, except for extenuating circumstances. Please reach out as early as possible if you know something will prevent you from attending class on exam dates.     

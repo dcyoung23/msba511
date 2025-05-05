@@ -17,7 +17,7 @@ The table below links to notes, reading, and homework for each week. The topics 
 | 10. [Ensembles](notes/week_10.md)                           | 4/14/2025        |                      |    9.7-9.9, 13       |     PA4                    |
 | **Easter Holiday**: (April 17-21: No Classes)               |                  
 | 11. Hackathon                                               | 4/28/2025        |                      |                      |                            |
-| 12. Text Mining / Project Work                              | 5/5/2025         |                      |    20                |     HW6                    |
+| 12. Text Mining / Project Work                              | 5/5/2025         |                      |    20                |                            |
 | 13. Project Presentations / Exam Review                     | 5/12/2025        |                      |                      |     Final Project          |
 | 14. **Exam 2**                                              | 5/19/2025        |                      |                      |                            |
 
