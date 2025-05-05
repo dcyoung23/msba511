@@ -17,6 +17,7 @@ nav:
     - Week 8 - Naive Bayes: notes/week_8.md
     - Week 9 - Logistic Regression: notes/week_9.md
     - Week 10 - Ensembles: notes/week_10.md
+    - Week 12 - Text Mining: notes/week_12.md
   - Resources:
     - Python:
       - Command Line Cheatsheet: resources/python/cl_cheatsheet.md
@@ -29,6 +30,7 @@ nav:
       - Chapter 13: resources/textbook/ch13_code_examples.md
       - Chapter 14: resources/textbook/ch14_code_examples.md
       - Chapter 15: resources/textbook/ch15_code_examples.md
+      - Chapter 20: resources/textbook/ch20_code_examples.md
   - Links: links.md
 theme:
   name: material
