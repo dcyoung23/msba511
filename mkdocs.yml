@@ -1,4 +1,4 @@
-site_name: MSBA 511, Spring 2025
+site_name: MSBA 511
 site_url: https://dcyoung23.github.io/msba511/
 repo_url: https://github.com/dcyoung23/msba511
 repo_name: MSBA 511
@@ -87,5 +87,7 @@ extra:
       link: https://www.linkedin.com/in/dcyoung23/
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@Professor-Young
+  version:
+    provider: mike
 extra_css:
   - css/extra.css
