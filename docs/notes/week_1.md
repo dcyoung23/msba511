@@ -8,16 +8,15 @@
 ### Class Agenda
 
 - Course Overview
-- [Introduction Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/0_Introduction.pdf)
+- [Introduction Slides]({{ content_links().ZZZZZ }})
 - `[5 min]` Break
-- [Association Rules Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/1_Association_Rules.pdf)
+- [Association Rules Slides]({{ content_links().ZZZZZ }})
 
 ### Task List
 
-- [x] **Optional** Reading: Chapters 1-2 - Introduction and Overview of Data Mining
-- [x] **Required** Reading: Chapter 14.1 - Association Rules
-- [x] **Complete** and **Submit** [HW1_Association_Rules](https://github.com/dcyoung23/msba511/blob/main/assignments/homework/HW1_Association_Rules.pdf) on Canvas/Gradescope.
+- [X] Optional Reading: Chapters 1-2 - Introduction and Overview of the Machine Learning Process
+- [x] **Required** Reading: Chapter 15.1 - Association Rules
+- [x] **Complete** and **Submit** [HW1_Association_Rules]({{ content_links().ZZZZ }}) on Canvas/Gradescope.
 
 ### Additional Resources
 
-- [Chapter 14 Code Examples](../resources/textbook/ch14_code_examples.md)

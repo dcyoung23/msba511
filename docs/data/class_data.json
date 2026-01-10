@@ -1,0 +1,27 @@
+{
+  "course":  {
+            "code": "MSBA 511",
+            "title": "Data Mining for Business Analytics",
+            "school": "University of San Diego",
+            "term": "Spring 2026",
+            "units": "3",
+            "location": "KCBE-328",
+            "days_times": "Mon 4:00PM - 6:50PM",
+            "dates": "30-Jan-2026 - 20-May-2026",
+            "office_hours": "Tue 3:00-4:00PM in TBD",
+            "canvas": "https://sandiego.instructure.com/courses/26075",
+            "gradescope": "https://www.gradescope.com/courses/1215957"
+        },
+    "instructor": {
+            "instructor": "Chris Young, MBA",
+            "title": "Adjunct Faculty",
+            "website": "https://www.linkedin.com/in/dcyoung23/",
+            "student_hours": "https://calendly.com/professor-cyoung/student-hours"
+        },
+    "content": {
+            "Introduction_Slido": "https://app.sli.do/event/3tvBouiN8rDgGxZARz7sGs",
+            "Introduction": "https://drive.google.com/file/d/1nEEC6uUW1iQELCMsOBMB-YIhqqaFfGqG/view?usp=drive_link",
+            "Create_Conceptual_ERD": "demos/01_create_conceptual_erd/",
+            "Quiz_1": "86784"
+        }
+    }

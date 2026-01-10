@@ -1,5 +1,5 @@
-<h1 style="text-align: center; margin: 0;">MSBA 511: Data Mining for Business Analytics</h1>
-<h3 style="text-align: center; margin: 0;">University of San Diego | Spring 2025: 3 Units</h3>
+<h1 style="text-align: center; margin: 0;">{{ course_info().code }}: {{ course_info().title }}</h1>
+<h3 style="text-align: center; margin: 0;">{{ course_info().school }} | {{ course_info().term }}: {{ course_info().units }} Units</h3>
 
 ## COURSE OVERVIEW
 
@@ -8,15 +8,13 @@ In today’s data-driven world, organizations often find themselves rich in data
 
 ### Course Details
 
-**Dates**: 3-Feb-2025 - 19-May-2025  
-**Day/Time**: Mon 4:00PM - 6:50PM  
-**Location**: KCBE-104
+**Dates**: {{ course_info().dates }}  
+**Location**: {{ course_info().location }}  
+**Day/Time**: {{ course_info().days_times }}  
 
 ### Instructor Information
-**Instructor**: Chris Young, MBA  
-**Email**: dcyoung@sandiego.edu  
-**Office Hours**: Mon 3:00-4:00PM in KCBE-218 or [by appointment](https://calendly.com/professor-cyoung/student-hours)
-
+**Instructor**: {{ instructor_info().instructor }}  
+**Office Hours**: Click [here]({{ instructor_info().student_hours }}) to schedule an online Zoom appointment.
 
 ### Course Learning Outcomes
 At the conclusion of the course, you should be able to:
@@ -30,7 +28,7 @@ At the conclusion of the course, you should be able to:
 
 ### Required Textbook
 
-The textbook **Data Mining for Business Analytics: Concepts, Techniques and Applications in Python**, by Galit Shmueli, Peter C. Bruce et al. (Nov 2019) is **required** for this course and can be purchased on Amazon [here](https://amzn.to/2HtRk1Y). If you purchase from another online retailer, be sure to purchase the **Python** edition (ISBN-10:1119549841) as the textbook is published for a variety of statistical software tools. The textbook also has a supplemental [website](https://www.dataminingbook.com/) with a variety of Python resources and datasets.
+The textbook **Data Mining for Business Analytics: Concepts, Techniques and Applications in Python 2nd Edition**, by Galit Shmueli, Peter C. Bruce et al. (Jun 2025) is **required** for this course and can be purchased on Amazon [here](https://a.co/d/gzkDNGw). If you purchase from another online retailer, be sure to purchase the **Python** edition (ISBN-10:1394286791) as the textbook is published for a variety of statistical software tools. The textbook also has a supplemental [website](https://www.dataminingbook.com/) with a variety of Python resources and datasets.
 
 ### Course Resources
 
@@ -49,22 +47,24 @@ This is a data mining class and we will be primarily using Python and Jupyter No
 
 ### Grade Distribution
 
-| Assignment                                    | % of Total Grade |   435 Total Points |
-|:----------------------------------------------|:-----------------|:-------------------|
-| 5 Conceptual Homework Assignments             |               20 |    75 (15 each)    
-| 4 Programming Assignments                     |               18 |    80 (20 each)    |
-| 1 Hackathon                                   |               9  |    40              |
-| 1 Group Project                               |               18 |    80              |
-| 2 Exams                                       |               36 |    160 (80 each)   |
+| Assignment                                    | % of Total Grade |   500 Total Points   |
+|:----------------------------------------------|:-----------------|:---------------------|
+| 5 Conceptual Homework (HW) Assignments        |               15 |    75 (15 each)      |
+| 5 Class Participation (CP) Assignments        |               10 |    50 (10 each)      |
+| 4 Programming Assignments (PA)                |               25 |    125 (Points Vary) |
+| 1 Hackathon                                   |               6  |    30                |
+| 1 Group Project                               |               14 |    70                |
+| 2 Exams                                       |               30 |    150 (75 each)     |
 
 Please be aware of the following acronyms:
 
-* **HW** = Conceptual homework assignments completed in a document format
+* **HW** = Conceptual homework assignments completed on Canvas
+* **CP** = Class participation assignments completed during class and submitted on Canvas
 * **PA** = Programming assignments completed in Python/Jupyter Notebook
 
 ### Grading Scale
 
-| Final Grade    | % of 435 Points |
+| Final Grade    | % of 500 Points |
 |:---------------|:----------------|
 | A              | >=93%           |
 | A-             | 90-92.99%       |
@@ -82,22 +82,22 @@ Please be aware of the following acronyms:
 Assignment and Exam grades are released typically a week after the submission date. It is your responsibility to check your grade and reach out if you believe there is a problem. Final Grades are not rounded up.
 
 ### Conceptual Homework
-There are five (5) conceptual homework assignments that focus on understanding key concepts and solving problems step-by-step by hand, rather than relying on programmatic solutions. While you are allowed to use Python/AI tools to support your learning during homework, it is essential to ensure you fully understand the reasoning and process behind the solutions. AI will **not** be permitted during exams, so developing your ability to work through problems independently is critical for success. 
+There are five (5) conceptual homework that focus on understanding key concepts and solving problems step-by-step by hand, rather than relying on programmatic solutions. While you are allowed to use Python/AI tools to support your learning, it is essential to ensure you fully understand the reasoning and process behind the solutions. AI will **not** be permitted during exams, so developing your ability to work through problems independently is critical for success. 
 
 !!! tip
     Use these assignments as an opportunity to practice and solidify your understanding, so you’re well-prepared for exam-style questions.
 
 ### Programming Assignments
-There are four (4) homework assignments consisting of problem-solving and Python based programming assignments. The purpose is to provide students with the opportunity to apply and practice the concepts and skills learned in the lectures and demos. Homeworks may be difficult and require you to demonstrate a deeper understanding of the material.
+There are four (4) programming assignments consisting of problem-solving and Python based programming assignments. The purpose is to provide students with the opportunity to apply and practice the concepts and skills learned in the lectures and demos.
 
 ### Group Project
 There is one (1) group project that you will be able to collaborate with 3-5 classmates. You will pick your own dataset and identify the problem statement and prepare your own analysis and presentation of your findings at the end of the semester.
 
 ### Exams
-Both exams are open-note and completed by yourself with no collaboration/communication with any other students. You will **not** be able to use a computer during exams. No late exams are permitted, except for extenuating circumstances. Please reach out as early as possible if you know something will prevent you from attending class on exam dates.     
+Both exams are completed by yourself with no collaboration/communication with any other students. Exam 1 is an in-class exam. The use of computers is **not** allowed, but you may bring one page of notes. Exam 2 must be taken on the last class meeting day. The exam will be administered remotely, is open-computer and open-notes, and will be timed at 2 hours and 50 minutes. No late exams are permitted, except for extenuating circumstances. Please reach out as early as possible if you know something will prevent you from attending class on exam dates.     
 
 ### Class Attendance
-The goal is to make lectures worth your while to attend. Some class dates may only consist of a lecture but the vast majority of classes will involve hands-on practice with Python and Jupyter Notebooks. Regular attendance is very important to your success in this course. 
+The goal is to make lectures worth your while to attend. Some class dates may only consist of a lecture but the vast majority of classes will involve demonstrations and hands-on practice with Python and Jupyter Notebooks. In addition, there are five (5) class participation assignments that are similar to conceptual homework but will be completed in class, either individually or in groups. Regular attendance is very important to your success in this course. 
 
 ### Late Submission Policy
 There is a 24-hour grace period for all homework and programming assignments with **NO** late penalty. Assignment submissions will **NOT** be accepted after the grace period. This policy is intended to be a safety net in case you experience any difficulties submitting your assignment on time. Do not view the grace period as the true due date for the assignment. If you miss an assignment due date, it is likely that you are not managing your time effectively and will need to adjust your planning and study habits. Please note that any excuse for not submitting assignments on time will not be accepted **AFTER** the 24-hour grace period. If you have extenuating circumstances, you must contact the professor **BEFORE** the assignment due date.

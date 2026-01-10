@@ -1,17 +1,18 @@
-<h1><span style="color:#4472c4">Data Mining for Business Analytics</span></h1>
-<h3>MSBA 511: University of San Diego - Spring 2025</h3>
+<h1 class="course-title">{{ course_info().code }}: {{ course_info().title }}</h1>
+<h3 class="course-school-term"> {{ course_info().school }}, {{ course_info().term }}</h3>
 
-**Day/Time**: Mon 4:00PM - 6:50PM  
-**Location**: KCBE-104
+<a href="{{ course_info().canvas }}"><span class="md-nav-badge md-nav-badge-canvas">Canvas</span></a>
+<a href="{{ course_info().gradescope }}"><span class="md-nav-badge md-nav-badge-gradescope">Gradescope</span></a>
+<a href="{{ instructor_info().student_hours }}"><span class="md-nav-badge md-nav-badge-calendly">Student Hours</span></a>
 
-### **About the Course**
+![D. Chris Young Profile](assets/images/profile_circle.png){: style="float:left; margin-right:10px; width:150px; height:150px;" }
+<br>
+<a href="{{ instructor_info().website }}" class="instructor-link">{{ instructor_info().instructor }}</a>  
+{{ instructor_info().title }}
+<br>
+<br>
 
-Data Mining for Business Analytics is designed to equip you with the knowledge and tools necessary to extract meaningful insights from large and complex datasets to inform business decisions. This course introduces fundamental data mining techniques, including association analysis and collaborative filtering, clustering, classification, and text mining with a focus on their practical applications in solving real-world business challenges. You will learn how to prepare and preprocess data, build and evaluate predictive models, and translate analytical findings into actionable strategies. Through hands-on conceptual homework, programming, and case study/group project assignments, you will explore applications such as market basket analysis, customer segmentation, targeted marketing, and fraud detection.
+  
+### **Course Calendar**
 
-### **Instructor Background**
-
-With over 20 years of experience in Analytics roles across the financial services and banking industries, my primary objective is to bring real-world expertise into the classroom. I currently serve as a Principal Analytics Consultant at one of the largest banks in the U.S., where I am responsible for combating deposit fraud across more than 5,000 branches nationwide. I also mentor aspiring professionals transitioning into the Data Analytics field and teach at MiraCosta College and here at the University of San Diego. As an Analytics practitioner, I rely on data mining concepts and tools for decision-making every day. My passion is helping students like you uncover how data drives business success and empowering you to apply these concepts in real-world scenarios. I hold a Bachelor of Science in Business Management from the University of Maryland Global Campus and an MBA from Arizona State University. I’m excited to share my knowledge and guide you through the practical application of data mining in the business world.
-
-### **Creative Commons**
-
-Unless otherwise noted, the materials on this website and repository are freely available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+{{ course_calendar_table() }}

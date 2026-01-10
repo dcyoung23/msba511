@@ -1,0 +1,35 @@
+date,title,label,week
+2026-01-26,Introduction;Association_Rules,LECT,1
+2026-02-01,HW1_Association_Rules,HMWK,1
+2026-02-02,Cluster_Analysis,LECT,2
+2026-02-02,CP1_Cluster_Analysis,PART,2
+2026-02-08,PA1_Wine_Customer_Segmentation,PROG,2
+2026-02-09,k-Nearest_Neighbors,LECT,3
+2026-02-09,CP2_k-Nearest_Neighbors,PART,3
+2026-02-16,Collaborative_Filtering,LECT,4
+2026-02-22,PA2_Instacart_Recommendations,PROG,4
+2026-02-23,Decision_Trees,LECT,5
+2026-03-01,HW2_Decision_Trees,HMWK,5
+2026-03-02,Evaluating_Classifiers,LECT,6
+2026-03-02,CP3_Evaluating_Classifiers,PART,6
+2026-03-09,Exam_1,EXAM,7
+2026-03-15,PA3_Coffee_Customer_Classification,PROG,7
+2026-03-16,Naive_Bayes,LECT,8
+2026-03-22,HW3_Naive_Bayes,HMWK,8
+2026-03-23,Logistic_Regression,LECT,9,
+2026-03-29,HW4_Logistic_Regression,HMWK,9
+2026-03-30,Spring / Easter Break,BRK,
+2026-03-30,No Class,NO,
+2026-04-06,No Class,NO,
+2026-04-13,Ensembles,LECT,10
+2026-04-13,CP4_Ensembles,PART,10
+2026-04-19,PA4_Credit_Card_Attrition,PROG,10
+2026-04-20,Experiments_Uplift_Modeling,LECT,11
+2026-04-20,CP5_Experiments,PART,11
+2026-04-26,GP1_Project_Proposal,PROJ,11
+2026-04-27,Text_Mining,LECT,12
+2026-05-03,HW5_Text_Mining,HMWK,12
+2026-05-04,Hackathon,LAB,13
+2026-05-10,GP2_Project_Modeling,PROJ,13
+2026-05-11,GP3_Project_Presentation,PROJ,14
+2026-05-18,Exam_2,EXAM,15
