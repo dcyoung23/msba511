@@ -28,7 +28,7 @@ At the conclusion of the course, you should be able to:
 
 ### Required Textbook
 
-The textbook **Data Mining for Business Analytics: Concepts, Techniques and Applications in Python 2nd Edition**, by Galit Shmueli, Peter C. Bruce et al. (Jun 2025) is **required** for this course and can be purchased on Amazon [here](https://a.co/d/gzkDNGw). If you purchase from another online retailer, be sure to purchase the **Python** edition (ISBN-10:1394286791) as the textbook is published for a variety of statistical software tools. The textbook also has a supplemental [website](https://www.dataminingbook.com/) with a variety of Python resources and datasets.
+The textbook **Machine Learning for Business Analytics: Concepts, Techniques and Applications in Python 2nd Edition**, by Galit Shmueli, Peter C. Bruce et al. (Jun 2025) is **required** for this course and can be purchased on Amazon [here](https://a.co/d/gzkDNGw). If you purchase from another online retailer, be sure to purchase the **Python** edition (ISBN-10:1394286791) as the textbook is published for a variety of statistical software tools. The textbook also has a supplemental [website](https://www.dataminingbook.com/) with a variety of Python resources and datasets.
 
 ### Course Resources
 
@@ -38,7 +38,7 @@ The textbook **Data Mining for Business Analytics: Concepts, Techniques and Appl
 
 ### Required Technology
 
-This is a data mining class and we will be primarily using Python and Jupyter Notebooks throughout the course. Below is a list of software that you will need to install on your computer.
+This is a data mining class, and we will be primarily using Python and Jupyter Notebooks throughout the course. Below is a list of software that you will need to install on your computer.
 
 * Anaconda Distribution of Python and other tools
 * A plain text editor such as VS Code is highly recommended
@@ -49,11 +49,11 @@ This is a data mining class and we will be primarily using Python and Jupyter No
 
 | Assignment                                    | % of Total Grade |   500 Total Points   |
 |:----------------------------------------------|:-----------------|:---------------------|
-| 5 Conceptual Homework (HW) Assignments        |               15 |    75 (15 each)      |
-| 5 Class Participation (CP) Assignments        |               10 |    50 (10 each)      |
-| 4 Programming Assignments (PA)                |               25 |    125 (Points Vary) |
+| 5 Conceptual Homework (**HW**)                |               15 |    75 (15 each)      |
+| 5 Class Participation (**CP**)                |               10 |    50 (10 each)      |
+| 4 Programming Assignments (**PA**)            |               25 |    125 (Points Vary) |
 | 1 Hackathon                                   |               6  |    30                |
-| 1 Group Project                               |               14 |    70                |
+| 1 Group Project (**GP**)                      |               14 |    70                |
 | 2 Exams                                       |               30 |    150 (75 each)     |
 
 Please be aware of the following acronyms:
@@ -61,6 +61,7 @@ Please be aware of the following acronyms:
 * **HW** = Conceptual homework assignments completed on Canvas
 * **CP** = Class participation assignments completed during class and submitted on Canvas
 * **PA** = Programming assignments completed in Python/Jupyter Notebook
+* **GP** = Group project assignments completed in various tools
 
 ### Grading Scale
 
@@ -79,25 +80,25 @@ Please be aware of the following acronyms:
 | D-             | 60-62.99%       |
 | F              | <60%            |
 
-Assignment and Exam grades are released typically a week after the submission date. It is your responsibility to check your grade and reach out if you believe there is a problem. Final Grades are not rounded up.
+Programming Assignment and Exam grades are released typically a week after the due date. It is your responsibility to check your grade and reach out if you believe there is a problem. Final Grades are not rounded up.
 
 ### Conceptual Homework
-There are five (5) conceptual homework that focus on understanding key concepts and solving problems step-by-step by hand, rather than relying on programmatic solutions. While you are allowed to use Python/AI tools to support your learning, it is essential to ensure you fully understand the reasoning and process behind the solutions. AI will **not** be permitted during exams, so developing your ability to work through problems independently is critical for success. 
+There are five (5) conceptual homework assignments that focus on understanding key concepts and solving problems step-by-step by hand, rather than relying on programmatic solutions. While you are allowed to use Python/AI tools to support your learning, it is essential to ensure you fully understand the reasoning and process behind the solutions. AI will **not** be permitted during exams, so developing your ability to work through problems independently is critical for success. 
 
 !!! tip
     Use these assignments as an opportunity to practice and solidify your understanding, so you’re well-prepared for exam-style questions.
+
+### Class Attendance
+The goal is to make lectures worth your while to attend. Some class dates may only consist of a lecture, but most classes will involve demonstrations and hands-on practice with Python and Jupyter Notebooks. In addition, there are five (5) class participation assignments that are like conceptual homework but will be completed in class, either individually or in groups. Regular attendance is very important to your success in the course. 
 
 ### Programming Assignments
 There are four (4) programming assignments consisting of problem-solving and Python based programming assignments. The purpose is to provide students with the opportunity to apply and practice the concepts and skills learned in the lectures and demos.
 
 ### Group Project
-There is one (1) group project that you will be able to collaborate with 3-5 classmates. You will pick your own dataset and identify the problem statement and prepare your own analysis and presentation of your findings at the end of the semester.
+There is one (1) group project, completed in three phases, in which you will collaborate with 3-5 classmates. Your group will select a dataset, define a problem statement, and conduct an analysis, culminating in a final presentation of your findings at the end of the semester.
 
 ### Exams
 Both exams are completed by yourself with no collaboration/communication with any other students. Exam 1 is an in-class exam. The use of computers is **not** allowed, but you may bring one page of notes. Exam 2 must be taken on the last class meeting day. The exam will be administered remotely, is open-computer and open-notes, and will be timed at 2 hours and 50 minutes. No late exams are permitted, except for extenuating circumstances. Please reach out as early as possible if you know something will prevent you from attending class on exam dates.     
-
-### Class Attendance
-The goal is to make lectures worth your while to attend. Some class dates may only consist of a lecture but the vast majority of classes will involve demonstrations and hands-on practice with Python and Jupyter Notebooks. In addition, there are five (5) class participation assignments that are similar to conceptual homework but will be completed in class, either individually or in groups. Regular attendance is very important to your success in this course. 
 
 ### Late Submission Policy
 There is a 24-hour grace period for all homework and programming assignments with **NO** late penalty. Assignment submissions will **NOT** be accepted after the grace period. This policy is intended to be a safety net in case you experience any difficulties submitting your assignment on time. Do not view the grace period as the true due date for the assignment. If you miss an assignment due date, it is likely that you are not managing your time effectively and will need to adjust your planning and study habits. Please note that any excuse for not submitting assignments on time will not be accepted **AFTER** the 24-hour grace period. If you have extenuating circumstances, you must contact the professor **BEFORE** the assignment due date.
