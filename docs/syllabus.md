@@ -83,13 +83,13 @@ Please be aware of the following acronyms:
 Programming Assignment and Exam grades are released typically a week after the due date. It is your responsibility to check your grade and reach out if you believe there is a problem. Final Grades are not rounded up.
 
 ### Conceptual Homework
-There are five (5) conceptual homework assignments that focus on understanding key concepts and solving problems step-by-step by hand, rather than relying on programmatic solutions. While you are allowed to use Python/AI tools to support your learning, it is essential to ensure you fully understand the reasoning and process behind the solutions. AI will **not** be permitted during exams, so developing your ability to work through problems independently is critical for success. 
+There are five (5) conceptual homework assignments that focus on understanding key concepts and solving problems step-by-step by hand, rather than relying on programmatic solutions. While you are allowed to use Python/AI tools to support your learning, it is essential to ensure you fully understand the reasoning and process behind the solutions. AI will **not** be permitted during exams, so developing your ability to work through problems independently is critical for success. Each homework assignment allows two (2) attempts; the highest score is used.
 
 !!! tip
     Use these assignments as an opportunity to practice and solidify your understanding, so you’re well-prepared for exam-style questions.
 
 ### Class Attendance
-The goal is to make lectures worth your while to attend. Some class dates may only consist of a lecture, but most classes will involve demonstrations and hands-on practice with Python and Jupyter Notebooks. In addition, there are five (5) class participation assignments that are like conceptual homework but will be completed in class, either individually or in groups. Regular attendance is very important to your success in the course. 
+The goal is to make lectures worth your while to attend. Some class dates may only consist of a lecture, but most classes will involve demonstrations and hands-on practice with Python and Jupyter Notebooks. In addition, there are five (5) class participation assignments that are like conceptual homework but will be completed in class, either individually or in groups. Regular attendance is very important to your success in the course. Each class participation assignment has unlimited attempts; the highest score is used.
 
 ### Programming Assignments
 There are four (4) programming assignments consisting of problem-solving and Python based programming assignments. The purpose is to provide students with the opportunity to apply and practice the concepts and skills learned in the lectures and demos.
