@@ -16,9 +16,9 @@
 
 - [X] Optional Reading: Chapters 1-2 - Introduction and Overview of the Machine Learning Process
 - [x] **Required** Reading: Chapter 15.1 - Association Rules
-- [x] **Complete** and **Submit** [HW1_Association_Rules]({{ content_links().HW1_Association_Rules }}) on Canvas/Gradescope.
+- [x] **Complete** and **Submit** [HW1_Association_Rules]({{ content_links().HW1_Association_Rules }}) on Canvas.
 
 ### Additional Resources
 
 [Machine Learning for Business Analytics: Concepts, Techniques and Applications in Python 2nd Edition](https://a.co/d/gzkDNGw)
-[HW1_Association_Rules_Worksheet]({{ content_links().Association_Rules_Worksheet }})
+[HW1_Association_Rules_Worksheet]({{ content_links().HW1_Association_Rules_Worksheet }})
