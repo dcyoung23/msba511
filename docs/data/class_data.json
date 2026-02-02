@@ -10,7 +10,8 @@
             "dates": "26-Jan-2026 - 18-May-2026",
             "office_hours": "Tue 3:00-4:00PM in TBD",
             "canvas": "https://sandiego.instructure.com/courses/26075",
-            "gradescope": "https://www.gradescope.com/courses/1215957"
+            "gradescope": "https://www.gradescope.com/courses/1215957",
+            "repo": "https://github.com/dcyoung23/msba511-sp26/"
         },
     "instructor": {
             "instructor": "Chris Young, MBA",
@@ -22,6 +23,10 @@
             "Introduction": "https://drive.google.com/file/d/1NLKVDfhvJ9gTnPTFaAQqfOXkU_THky0w/view?usp=sharing",
             "Association_Rules": "https://drive.google.com/file/d/1MJf-tcF_kySzxS-LFPjLDUxQ6R7Lp-vG/view?usp=sharing",
             "HW1_Association_Rules": "101499",
-            "Association_Rules_Worksheet": "https://docs.google.com/document/d/1ppg7sY1vykxta6PF8q-EFaOD0Vu5Zgl95zhqSY6iS8w/edit?usp=sharing"
+            "Association_Rules_Worksheet": "https://docs.google.com/document/d/1ppg7sY1vykxta6PF8q-EFaOD0Vu5Zgl95zhqSY6iS8w/edit?usp=sharing",
+            "Cluster_Analysis": "https://drive.google.com/file/d/11ll2PIk6mqAdVWXamrSUszHtne9mHzHT/view?usp=sharing",
+            "CP1_Cluster_Analysis": "101613",
+            "PA1_Wine_Customer_Segmentation": "397714",
+            "Cluster_Analysis_Demo": "/blob/main/demos/03_cluster_analysis_starter.ipynb"
         }
     }

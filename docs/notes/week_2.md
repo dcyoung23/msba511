@@ -2,23 +2,27 @@
 
     *After today's class, you should be able to:*
     
+    - Understand and apply cluster analysis techniques, including the k-Means algorithm, to segment data into a set of homogeneous clusters of records for the purpose of generating insight.
     - Create a new Conda environment and install required Python libraries.
-    - Understand and apply collaborative filtering techniques, including user-based and item-based approaches, to generate personalized recommendations by leveraging user preferences, behaviors, and interactions.
-    - Develop and implement association rule mining and collaborative filtering techniques in Python.
+    - Use GitHub Desktop (or Git) to clone a repository and download starter Jupyter notebooks for in class demos.
+    - Develop and implement cluster analysis models in Python.
 
 ### Class Agenda
 
-- [Python Conda Environment Setup](../resources/python/cl_cheatsheet.md)
-- [Association Rules Python Demo](https://github.com/dcyoung23/data-mining-examples/blob/main/notebooks/1_association_rules_starter.ipynb)
+- [Cluster Analysis Slides]({{ content_links().Cluster_Analysis }})
 - `[5 min]` Break
-- [Collaborative Filtering Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/2_Collaborative_Filtering.pdf)
-- [Collaborative Filtering Python Demo](https://github.com/dcyoung23/data-mining-examples/blob/main/notebooks/2_collaborative_filtering_starter.ipynb)
+- [Cluster Analysis Python Demo]({{ content_links().Cluster_Analysis_Demo }})
+- In Class Time for [CP1_Cluster_Analysis]({{ content_links().CP1_Cluster_Analysis }})
 
 ### Task List
 
-- [x] **Required** Reading: Chapter 14.2 - Collaborative Filtering
-- [x] **Complete** and **Submit** [PA1_Instacart_Recommendations](https://github.com/dcyoung23/msba511/tree/main/assignments/programming/PA1_Instacart_Recommendations) on Canvas/Gradescope.
+- [x] **Optional** Reading: Chapters 3-4 - Data Visualization and Dimension Reduction
+- [x] **Required** Reading: Chapter 16 - Cluster Analysis
+- [x] **Complete** and **Submit** [CP1_Cluster_Analysis]({{ content_links().CP1_Cluster_Analysis }}) on Canvas.
+- [x] **Complete** and **Submit** [PA1_Wine_Customer_Segmentation]({{ content_links().PA1_Wine_Customer_Segmentation }}) on Canvas/Gradescope.
 
 ### Additional Resources
 
-- [Chapter 14 Code Examples](../resources/textbook/ch14_code_examples.md)
+- [Python Conda Environment Setup](../resources/python/cl_cheatsheet.md)
+- [Chapter 16 Code Examples](../resources/textbook/ch16_code_examples.ipynb)
+- [CP1_Cluster_Analysis_Worksheet]({{ content_links().CP1_Cluster_Analysis_Worksheet }})

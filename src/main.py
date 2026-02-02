@@ -25,11 +25,14 @@ def define_env(env):
         content_data = load_class_data()['content']
         content_links = {}
         canvas_base = course_info()['canvas']
+        repo_base = course_info()['repo']
         for k, v in content_data.items():
             if any(x in k for x in ("PA", "GP")):
                 content_links[k] = f"{canvas_base}/assignments/{v}"
             elif any(x in k for x in ("HW", "CP")):
                 content_links[k] = f"{canvas_base}/quizzes/{v}"
+            elif any(x in k for x in ("Demo", )):
+                content_links[k] = f"{repo_base}{v}"
             else:
                 content_links[k] = v
         return content_links
