@@ -65,7 +65,7 @@ def define_env(env):
         prev_week_no = None
         first_date_week = None
         for row in course_calendar:
-            print(row)
+            #print(row)
             current_date = datetime.strptime(row['date'], "%Y-%m-%d")
             monday_date = current_date - timedelta(days=current_date.weekday())
             week_no = row['week']

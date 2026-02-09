@@ -5,8 +5,8 @@ date,title,label,week
 2026-02-02,Cluster_Analysis_Demo,DEMO,2
 2026-02-02,CP1_Cluster_Analysis,PART,2
 2026-02-08,PA1_Wine_Customer_Segmentation,PROG,2
-2026-02-09,k-Nearest_Neighbors,LECT,3
-2026-02-09,CP2_k-Nearest_Neighbors,PART,3
+2026-02-09,k_Nearest_Neighbors,LECT,3
+2026-02-09,CP2_k_Nearest_Neighbors,PART,3
 2026-02-16,Collaborative_Filtering,LECT,4
 2026-02-22,PA2_Instacart_Recommendations,PROG,4
 2026-02-23,Decision_Trees,LECT,5

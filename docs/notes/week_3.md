@@ -2,24 +2,21 @@
 
     *After today's class, you should be able to:*
     
-    - Understand and apply cluster analysis techniques, including the k-Means algorithm, to segment data into a set of homogeneous clusters of records for the purpose of generating insight.
-    - Use GitHub Desktop to clone a repository and download starter Jupyter notebooks for in class demos.
-    - Develop and implement cluster analysis models in Python.
-
+    - Understand the k-Nearest Neighbor (kNN) algorithm for classification tasks, enabling the extraction of insights by analyzing patterns in labeled data.
+    - Apply the k-Nearest Neighbors (k-NN) algorithm manually to a small dataset, including scaling the data, to understand how distance calculations determine the predicted outcome.
+    
 ### Class Agenda
 
-- [Cluster Analysis Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/3_Cluster_Analysis.pdf)
-- `[5 min]` Break
-- [Cluster Analysis Python Demo](https://github.com/dcyoung23/data-mining-examples/blob/main/notebooks/3_cluster_analysis_starter.ipynb)
-- `[30 min]` Python Q&A/Debugging Help
+- [k-Nearest Neighbors (k-NN) Slides]({{ content_links().k_Nearest_Neighbors }})
+- `[5 min]` Break (Optional)
+- In Class Time for [CP2_k-Nearest_Neighbors]({{ content_links().CP2_k_Nearest_Neighbors }})
 
 ### Task List
 
-- [x] **Optional** Reading: Chapters 3-4 - Data Visualization and Dimension Reduction
-- [x] **Required** Reading: Chapter 15 - Cluster Analysis
-- [x] **Complete** and **Submit** [HW2_Cluster_Analysis](https://github.com/dcyoung23/msba511/blob/main/assignments/homework/HW2_Cluster_Analysis.pdf) on Canvas/Gradescope.
-- [x] **Complete** and **Submit** [PA1_Instacart_Recommendations](https://github.com/dcyoung23/msba511/tree/main/assignments/programming/PA1_Instacart_Recommendations) on Canvas/Gradescope.
+- [x] **Required** Reading: Chapter 7 - k-Nearest Neighbors (k-NN)
+- [x] **Complete** and **Submit** [CP2_k-Nearest_Neighbors]({{ content_links().CP2_k_Nearest_Neighbors }}) on Canvas.
 
 ### Additional Resources
 
-- [Chapter 15 Code Examples](../resources/textbook/ch15_code_examples.md)
+- [Chapter 7 Code Examples](../resources/textbook/ch7_code_examples.md)
+- [CP2_k-Nearest_Neighbors_Worksheet]({{ content_links().k_Nearest_Neighbors_Worksheet }})

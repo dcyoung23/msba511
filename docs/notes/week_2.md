@@ -6,6 +6,7 @@
     - Create a new Conda environment and install required Python libraries.
     - Use GitHub Desktop (or Git) to clone a repository and download starter Jupyter notebooks for in class demos.
     - Develop and implement cluster analysis models in Python.
+    - Apply the k-Means algorithm manually to a small dataset to understand how cluster assignments and centroid updates occur in each iteration.
 
 ### Class Agenda
 
@@ -25,4 +26,4 @@
 
 - [Python Conda Environment Setup](../resources/python/cl_cheatsheet.md)
 - [Chapter 16 Code Examples](../resources/textbook/ch16_code_examples.ipynb)
-- [CP1_Cluster_Analysis_Worksheet]({{ content_links().CP1_Cluster_Analysis_Worksheet }})
+- [CP1_Cluster_Analysis_Worksheet]({{ content_links().Cluster_Analysis_Worksheet }})
