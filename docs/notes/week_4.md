@@ -2,21 +2,20 @@
 
     *After today's class, you should be able to:*
     
-    - Understand the decision tree algorithm for classification tasks, enabling the extraction of interpretable rules to inform effective decision making.
-    - Develop and implement decision tree classification models and visualize the output tree structure in Python.
+    - Understand and apply collaborative filtering techniques, including user-based and item-based approaches, to generate personalized recommendations by leveraging user preferences, behaviors, and interactions.
+    - Develop and implement association rule mining and collaborative filtering techniques in Python.
 
 ### Class Agenda
 
-- [Classification / Decision Tree Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/4_Classification_Decision_Trees.pdf)
+- [Collaborative Filtering Slides]({{ content_links().Collaborative_Filtering }})
 - `[5 min]` Break
-- [Decision Tree Python Demo](https://github.com/dcyoung23/data-mining-examples/blob/main/notebooks/4_decision_tree_starter.ipynb)
-- `[30 min]` Python Q&A/Debugging Help
+- [Assoc Rules / Collab Filtering Python Demo]({{ content_links().Assoc_Rules_Collab_Filtering_Demo }})
 
 ### Task List
 
-- [x] **Required** Reading: Chapter 9.1-9.5 - Classification and Regression Trees
-- [x] **Complete** and **Submit** [PA2_Wine_Customer_Segmentation](https://github.com/dcyoung23/msba511/tree/main/assignments/programming/PA2_Wine_Customer_Segmentation) on Canvas/Gradescope.
+- [x] **Required** Reading: Chapter 15.2 - Collaborative Filtering
+- [x] **Complete** and **Submit** [PA2_Instacart_Recommendations]({{ content_links().PA2_Instacart_Recommendations }}) on Canvas/Gradescope.
 
 ### Additional Resources
 
-- [Chapter 9 Code Examples](../resources/textbook/ch9_code_examples.md)
+- [Chapter 15 Code Examples](../resources/textbook/ch15_code_examples.ipynb)

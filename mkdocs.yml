@@ -9,7 +9,7 @@ nav:
     - Week 1 - Intro / Association Rules: notes/week_1.md
     - Week 2 - Cluster Analysis: notes/week_2.md
     - Week 3 - k-Nearest Neighbors: notes/week_3.md
-    #- Week 4 - Collaborative Filtering: notes/week_4.md
+    - Week 4 - Collaborative Filtering: notes/week_4.md
     #- Week 5 - Classification / Decision Trees: notes/week_5.md
     #- Week 6 - Evaluating Classifiers: notes/week_6.md
     #- Week 7 - Exam 1: notes/week_6.md
@@ -28,6 +28,7 @@ nav:
       #- Chapter 10: resources/textbook/ch10_code_examples.ipynb
       #- Chapter 13: resources/textbook/ch13_code_examples.ipynb
       #- Chapter 14: resources/textbook/ch14_code_examples.ipynb
+      - Chapter 15: resources/textbook/ch15_code_examples.ipynb
       - Chapter 16: resources/textbook/ch16_code_examples.ipynb
       #- Chapter 20: resources/textbook/ch20_code_examples.ipynb
 theme:

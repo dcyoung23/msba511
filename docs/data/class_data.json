@@ -31,6 +31,9 @@
             "Cluster_Analysis_Worksheet": "https://docs.google.com/document/d/1kwkvvJ1BEEDivbOX3-E-vB9G-QUa_IhDjK_6-yQs0ls/edit?usp=sharing",
             "k_Nearest_Neighbors": "https://drive.google.com/file/d/1sEdjoHbYseGmYkjV7o6i0cKll1377Wg4/view?usp=sharing",
             "CP2_k_Nearest_Neighbors": "102015",
-            "k_Nearest_Neighbors_Worksheet": "https://docs.google.com/document/d/1NldoctT29wD-2Qh9ALvfq8ecT_q9hYjxiYScmwXNgEA/edit?usp=sharing"
+            "k_Nearest_Neighbors_Worksheet": "https://docs.google.com/document/d/1NldoctT29wD-2Qh9ALvfq8ecT_q9hYjxiYScmwXNgEA/edit?usp=sharing",
+            "Collaborative_Filtering": "https://drive.google.com/file/d/11bOQvvP7fSZ86Y9NoLl-M4dPY_IykkKe/view?usp=sharing",
+            "Assoc_Rules_Collab_Filtering_Demo": "/blob/main/demos/05_assoc_rules_collab_filtering_starter.ipynb",
+            "PA2_Instacart_Recommendations": "400877"
         }
     }

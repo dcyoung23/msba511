@@ -2,19 +2,21 @@
 
     *After today's class, you should be able to:*
     
-    - Understand and apply key classification evaluation metrics, including accuracy, precision, recall, ROC curves, and Lift & Gains charts, to assess model performance and select the most appropriate metric based on business objectives.
-    
+    - Understand the decision tree algorithm for classification tasks, enabling the extraction of interpretable rules to inform effective decision making.
+    - Develop and implement decision tree classification models and visualize the output tree structure in Python.
+
 ### Class Agenda
 
-- [Evaluating Classifiers Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/5_Evaluating_Classifiers.pdf)
+- [Classification / Decision Tree Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/4_Classification_Decision_Trees.pdf)
 - `[5 min]` Break
-- Exam Review/Overview
+- [Decision Tree Python Demo](https://github.com/dcyoung23/data-mining-examples/blob/main/notebooks/4_decision_tree_starter.ipynb)
+- `[30 min]` Python Q&A/Debugging Help
 
 ### Task List
 
-- [x] **Required** Reading: Chapter 5.3 - Judging Classifier Performance
-- [x] **Complete** and **Submit** [HW3_Decision_Trees](https://github.com/dcyoung23/msba511/blob/main/assignments/homework/HW3_Decision_Trees.pdf) on Canvas/Gradescope.
+- [x] **Required** Reading: Chapter 9.1-9.5 - Classification and Regression Trees
+- [x] **Complete** and **Submit** [PA2_Wine_Customer_Segmentation](https://github.com/dcyoung23/msba511/tree/main/assignments/programming/PA2_Wine_Customer_Segmentation) on Canvas/Gradescope.
 
 ### Additional Resources
 
-- [Chapter 5 Code Examples](../resources/textbook/ch5_code_examples.md)
+- [Chapter 9 Code Examples](../resources/textbook/ch9_code_examples.md)

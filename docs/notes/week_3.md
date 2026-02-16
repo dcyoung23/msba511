@@ -18,5 +18,5 @@
 
 ### Additional Resources
 
-- [Chapter 7 Code Examples](../resources/textbook/ch7_code_examples.md)
+- [Chapter 7 Code Examples](../resources/textbook/ch7_code_examples.ipynb)
 - [CP2_k-Nearest_Neighbors_Worksheet]({{ content_links().k_Nearest_Neighbors_Worksheet }})
