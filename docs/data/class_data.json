@@ -23,7 +23,7 @@
             "Introduction": "https://drive.google.com/file/d/1NLKVDfhvJ9gTnPTFaAQqfOXkU_THky0w/view?usp=sharing",
             "Association_Rules": "https://drive.google.com/file/d/1MJf-tcF_kySzxS-LFPjLDUxQ6R7Lp-vG/view?usp=sharing",
             "HW1_Association_Rules": "101499",
-            "HW1_Association_Rules_Worksheet": "https://docs.google.com/document/d/1ppg7sY1vykxta6PF8q-EFaOD0Vu5Zgl95zhqSY6iS8w/edit?usp=sharing",
+            "Association_Rules_Worksheet": "https://docs.google.com/document/d/1ppg7sY1vykxta6PF8q-EFaOD0Vu5Zgl95zhqSY6iS8w/edit?usp=sharing",
             "Cluster_Analysis": "https://drive.google.com/file/d/11ll2PIk6mqAdVWXamrSUszHtne9mHzHT/view?usp=sharing",
             "CP1_Cluster_Analysis": "101613",
             "PA1_Wine_Customer_Segmentation": "397714",
@@ -34,6 +34,9 @@
             "k_Nearest_Neighbors_Worksheet": "https://docs.google.com/document/d/1NldoctT29wD-2Qh9ALvfq8ecT_q9hYjxiYScmwXNgEA/edit?usp=sharing",
             "Collaborative_Filtering": "https://drive.google.com/file/d/11bOQvvP7fSZ86Y9NoLl-M4dPY_IykkKe/view?usp=sharing",
             "Assoc_Rules_Collab_Filtering_Demo": "/blob/main/demos/05_assoc_rules_collab_filtering_starter.ipynb",
-            "PA2_Instacart_Recommendations": "400877"
+            "PA2_Instacart_Recommendations": "400877",
+            "HW2_Decision_Trees": "102734",
+             "Classification_Decision_Trees": "https://drive.google.com/file/d/1GVslYLFqzhLmUD4IPGtkw7wHXbcVoB9i/view?usp=sharing",
+             "Decision_Trees_Worksheet": "https://docs.google.com/document/d/1PfZ-S_C4Rtfi2hFgs8XY1ZkfaS9uPC9yiOfc3gthdaE/edit?usp=sharing"
         }
     }

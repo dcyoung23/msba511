@@ -7,16 +7,16 @@
 
 ### Class Agenda
 
-- [Classification / Decision Tree Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/4_Classification_Decision_Trees.pdf)
-- `[5 min]` Break
-- [Decision Tree Python Demo](https://github.com/dcyoung23/data-mining-examples/blob/main/notebooks/4_decision_tree_starter.ipynb)
-- `[30 min]` Python Q&A/Debugging Help
+- [Classification Decision Tree Slides]({{ content_links().Classification_Decision_Trees }})
+- [Decision Trees Python Tutorial](../resources/tutorials/06_decision_trees_tutorial.ipynb)
+- In Class Time for [HW2_Decision_Trees]({{ content_links().HW2_Decision_Trees }})
 
 ### Task List
 
-- [x] **Required** Reading: Chapter 9.1-9.5 - Classification and Regression Trees
-- [x] **Complete** and **Submit** [PA2_Wine_Customer_Segmentation](https://github.com/dcyoung23/msba511/tree/main/assignments/programming/PA2_Wine_Customer_Segmentation) on Canvas/Gradescope.
+- [x] **Required** Reading: Chapter 9.1-9.2 - Classification Trees
+- [x] **Complete** and **Submit** [HW2_Decision_Trees]({{ content_links().HW2_Decision_Trees }}) on Canvas.
 
 ### Additional Resources
 
-- [Chapter 9 Code Examples](../resources/textbook/ch9_code_examples.md)
+- [Chapter 9 Code Examples](../resources/textbook/ch9_code_examples.ipynb)
+- [HW2_Decision_Trees_Worksheet]({{ content_links().Decision_Trees_Worksheet }})
