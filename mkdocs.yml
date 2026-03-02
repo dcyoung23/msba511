@@ -11,7 +11,7 @@ nav:
     - Week 3 - k-Nearest Neighbors: notes/week_3.md
     - Week 4 - Collaborative Filtering: notes/week_4.md
     - Week 5 - Decision Trees: notes/week_5.md
-    #- Week 6 - Evaluating Classifiers: notes/week_6.md
+    - Week 6 - Evaluating Classifiers: notes/week_6.md
     #- Week 7 - Exam 1: notes/week_6.md
     #- Week 8 - Naive Bayes: notes/week_8.md
     #- Week 9 - Logistic Regression: notes/week_9.md
@@ -23,7 +23,7 @@ nav:
     - Tutorials:
       - Decision Trees: resources/tutorials/06_decision_trees_tutorial.ipynb
     - Chapter Code Examples:
-      #- Chapter 5: resources/textbook/ch5_code_examples.ipynb
+      - Chapter 5: resources/textbook/ch5_code_examples.ipynb
       - Chapter 7: resources/textbook/ch7_code_examples.ipynb
       #- Chapter 8: resources/textbook/ch8_code_examples.ipynb
       - Chapter 9: resources/textbook/ch9_code_examples.ipynb

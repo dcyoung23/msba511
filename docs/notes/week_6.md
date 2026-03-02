@@ -3,18 +3,22 @@
     *After today's class, you should be able to:*
     
     - Understand and apply key classification evaluation metrics, including accuracy, precision, recall, ROC curves, and Lift & Gains charts, to assess model performance and select the most appropriate metric based on business objectives.
+    - Be able to evaluate the performance of different classifiers by manually calculating key evaluation metrics, including accuracy, precision, and recall.
     
 ### Class Agenda
 
-- [Evaluating Classifiers Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/5_Evaluating_Classifiers.pdf)
+- [Evaluating Classifiers Slides]({{ content_links().Evaluating_Classifiers }})
+- [Exam 1 Review Slides]({{ content_links().Exam_1_Review }})
 - `[5 min]` Break
-- Exam Review/Overview
+- In Class Time for [CP3_Evaluating_Classifiers]({{ content_links().CP3_Evaluating_Classifiers }})
 
 ### Task List
 
 - [x] **Required** Reading: Chapter 5.3 - Judging Classifier Performance
-- [x] **Complete** and **Submit** [HW3_Decision_Trees](https://github.com/dcyoung23/msba511/blob/main/assignments/homework/HW3_Decision_Trees.pdf) on Canvas/Gradescope.
+- [x] **Complete** and **Submit** [CP3_Evaluating_Classifiers]({{ content_links().CP3_Evaluating_Classifiers }}) on Canvas.
+- [x] Prepare for Exam 1
 
 ### Additional Resources
 
-- [Chapter 5 Code Examples](../resources/textbook/ch5_code_examples.md)
+- [Chapter 5 Code Examples](../resources/textbook/ch5_code_examples.ipynb)
+- [CP3_Evaluating_Classifiers_Worksheet]({{ content_links().Evaluating_Classifiers_Worksheet }})

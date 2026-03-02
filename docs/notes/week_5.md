@@ -4,6 +4,7 @@
     
     - Understand the decision tree algorithm for classification tasks, enabling the extraction of interpretable rules to inform effective decision making.
     - Develop and implement decision tree classification models and visualize the output tree structure in Python.
+    - Apply the steps of the decision tree algorithm manually to identify the best attribute for splitting the data and use these results to construct the decision tree.
 
 ### Class Agenda
 
