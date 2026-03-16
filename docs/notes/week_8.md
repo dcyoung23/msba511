@@ -4,20 +4,22 @@
     
     - Understand the probabilistic Naive Bayes algorithm for classification tasks, including how it models feature likelihoods using Bayes’ Theorem with a conditional independence assumption.
     - Calculate probabilities, develop and implement Naive Bayes models in Python.
+    - Apply the Naive Bayes formula to manually calculate posterior class probabilities using prior and conditional probabilities.
     
 ### Class Agenda
 
-- `[30 min]` Exam 1 Results
-- [Naive Bayes Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/8_Naive_Bayes.pdf)
+- [Naive Bayes Slides]({{ content_links().Naive_Bayes }})
 - `[5 min]` Break (Optional)
-- [KNN Demo](https://github.com/dcyoung23/data-mining-examples/blob/main/notebooks/8_naive_bayes_starter.ipynb)
-- `[30 min]` Python Q&A/Debugging Help
+- [Naive Bayes Python Tutorial](../resources/tutorials/08_naive_bayes_tutorial.ipynb)
+- In Class Time for [HW3_Naive_Bayes]({{ content_links().HW3_Naive_Bayes }})
 
 ### Task List
 
 - [x] **Required** Reading: Chapter 8 - The Naive Bayes Classifier
-- [x] **Complete** and **Submit** [HW5_Naive_Bayes](https://github.com/dcyoung23/msba511/blob/main/assignments/homework/HW5_Naive_Bayes.pdf) on **Canvas**.
+- [x] **Complete** and **Submit** [HW3_Naive_Bayes]({{ content_links().HW3_Naive_Bayes }}) on **Canvas**.
+- [x] **Complete** and **Submit** [PA3_Coffee_Customer_Classification]({{ content_links().PA3_Coffee_Customer_Classification }}) on Canvas/Gradescope.
 
 ### Additional Resources
 
 - [Chapter 8 Code Examples](../resources/textbook/ch8_code_examples.md)
+- [HW3_Naive_Bayes_Worksheet]({{ content_links().Naive_Bayes_Worksheet }})

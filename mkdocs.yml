@@ -12,8 +12,7 @@ nav:
     - Week 4 - Collaborative Filtering: notes/week_4.md
     - Week 5 - Decision Trees: notes/week_5.md
     - Week 6 - Evaluating Classifiers: notes/week_6.md
-    #- Week 7 - Exam 1: notes/week_6.md
-    #- Week 8 - Naive Bayes: notes/week_8.md
+    - Week 8 - Naive Bayes: notes/week_8.md
     #- Week 9 - Logistic Regression: notes/week_9.md
     #- Week 10 - Ensembles: notes/week_10.md
     #- Week 12 - Text Mining: notes/week_12.md
@@ -21,11 +20,13 @@ nav:
     - Python:
       - Command Line Cheatsheet: resources/python/cl_cheatsheet.md
     - Tutorials:
-      - Decision Trees: resources/tutorials/06_decision_trees_tutorial.ipynb
+      - Decision Trees: resources/tutorials/05_decision_trees_tutorial.ipynb
+      - Evaluating Classifiers: resources/tutorials/06_evaluating_classifiers_tutorial.ipynb
+      - Naive Bayes: resources/tutorials/08_naive_bayes_tutorial.ipynb
     - Chapter Code Examples:
       - Chapter 5: resources/textbook/ch5_code_examples.ipynb
       - Chapter 7: resources/textbook/ch7_code_examples.ipynb
-      #- Chapter 8: resources/textbook/ch8_code_examples.ipynb
+      - Chapter 8: resources/textbook/ch8_code_examples.ipynb
       - Chapter 9: resources/textbook/ch9_code_examples.ipynb
       #- Chapter 10: resources/textbook/ch10_code_examples.ipynb
       #- Chapter 13: resources/textbook/ch13_code_examples.ipynb

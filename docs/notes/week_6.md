@@ -10,6 +10,7 @@
 - [Evaluating Classifiers Slides]({{ content_links().Evaluating_Classifiers }})
 - [Exam 1 Review Slides]({{ content_links().Exam_1_Review }})
 - `[5 min]` Break
+- [Evaluating Classifiers Python Tutorial](../resources/tutorials/06_evaluating_classifers_tutorial.ipynb)
 - In Class Time for [CP3_Evaluating_Classifiers]({{ content_links().CP3_Evaluating_Classifiers }})
 
 ### Task List

@@ -9,7 +9,7 @@
 ### Class Agenda
 
 - [Classification Decision Tree Slides]({{ content_links().Classification_Decision_Trees }})
-- [Decision Trees Python Tutorial](../resources/tutorials/06_decision_trees_tutorial.ipynb)
+- [Decision Trees Python Tutorial](../resources/tutorials/05_decision_trees_tutorial.ipynb)
 - In Class Time for [HW2_Decision_Trees]({{ content_links().HW2_Decision_Trees }})
 
 ### Task List
