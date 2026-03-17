@@ -3,6 +3,7 @@
 
 <a href="{{ course_info().canvas }}"><span class="md-nav-badge md-nav-badge-canvas">Canvas</span></a>
 <a href="{{ course_info().gradescope }}"><span class="md-nav-badge md-nav-badge-gradescope">Gradescope</span></a>
+<a href="{{ course_info().repo }}"><span class="md-nav-badge md-nav-badge-repo">Course Repo</span></a>
 <a href="{{ instructor_info().student_hours }}"><span class="md-nav-badge md-nav-badge-calendly">Student Hours</span></a>
 
 ![D. Chris Young Profile](assets/images/profile_circle.png){: style="float:left; margin-right:10px; width:150px; height:150px;" }

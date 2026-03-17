@@ -109,6 +109,10 @@ th, td {
     color: #f3f4f6;
     background-color: #505960;
   }
+  .md-nav-badge-repo {
+    color: #f3f4f6;
+    background-color: #1F883D;
+  }
   
 .md-cal-badge {
     display: inline-flex;
