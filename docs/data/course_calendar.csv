@@ -27,10 +27,9 @@ date,title,label,week
 2026-04-06,No Class,NO,
 2026-04-13,Ensembles,LECT,10
 2026-04-13,CP4_Ensembles,PART,10
-2026-04-19,PA4_Credit_Card_Attrition,PROG,10
+2026-04-19,GP1_Project_Proposal,PROJ,10
 2026-04-20,Experiments_Uplift_Modeling,LECT,11
-2026-04-20,CP5_Experiments,PART,11
-2026-04-26,GP1_Project_Proposal,PROJ,11
+2026-04-26,PA4_Credit_Card_Attrition,PROG,11
 2026-04-27,Text_Mining,LECT,12
 2026-05-03,HW5_Text_Mining,HMWK,12
 2026-05-04,Hackathon,LAB,13
