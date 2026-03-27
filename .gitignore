@@ -1,5 +1,8 @@
+# vsCode settings
+.vscode/
+
 # Jupyter Checkpoints
-.ipynb_checkpoints
+.ipynb_checkpoints/
 */.ipynb_checkpoints/*
 
 *.pyc
