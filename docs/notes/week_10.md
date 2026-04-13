@@ -3,20 +3,24 @@
     *After today's class, you should be able to:*
     
     - Understand the techniques for ensemble learning by applying both meta-learning approaches and prediction combination methods to improve model performance and generalization. 
-    - Implement ensemble models in Python using sklearn.
+    - Implement voting and stacking as well as out-of-the-box ensemble models in Python using sklearn.
+    - Develop custom scorer functions and build pipelines that handle preprocessing and modeling steps.
+    - Be able to apply hard and soft voting classifier predictions manually.
     
 ### Class Agenda
 
-- [Ensembles Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/10_Ensembles.pdf)
-- [Ensembles Demo](https://github.com/dcyoung23/data-mining-examples/blob/main/notebooks/10_ensembles_starter.ipynb)
+- [Ensembles Slides]({{ content_links().Ensembles }})
+- [Ensembles Tutoral](../resources/tutorials/10_ensembles_tutorial.ipynb)
 - `[5 min]` Break (Optional)
-- Class Time - Work on [PA4_Credit_Card_Attrition](https://github.com/dcyoung23/msba511/tree/main/assignments/programming/PA4_Credit_Card_Attrition)
+- In Class Time for [CP4_Ensembles]({{ content_links().CP4_Ensembles }})
 
 ### Task List
 
 - [x] **Required** Reading: Chapter 13 - Combining Methods: Ensembles and Uplift Modeling
-- [x] **Complete** and **Submit** [PA4_Credit_Card_Attrition](https://github.com/dcyoung23/msba511/tree/main/assignments/programming/PA4_Credit_Card_Attrition) on Canvas/Gradescope.
+- [x] **Complete** and **Submit** [CP4_Ensembles]({{ content_links().CP4_Ensembles }}) on Canvas.
+- [x] Start working on [PA4_Credit_Card_Attrition_P1]({{ content_links().PA4_Credit_Card_Attrition_P1 }})
+- [x] Start working on [GP1_Project_Proposal]({{ content_links().GP1_Project_Proposal }})
 
 ### Additional Resources
 
-- [Chapter 13 Code Examples](../resources/textbook/ch13_code_examples.md)
+- [CP4_Ensembles_Worksheet]({{ content_links().Ensembles_Worksheet }})

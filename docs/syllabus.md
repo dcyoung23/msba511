@@ -95,7 +95,7 @@ The goal is to make lectures worth your while to attend. Some class dates may on
 There are four (4) programming assignments consisting of problem-solving and Python based programming assignments. The purpose is to provide students with the opportunity to apply and practice the concepts and skills learned in the lectures and demos.
 
 ### Group Project
-There is one (1) group project, completed in three phases, in which you will collaborate with 3-5 classmates. Your group will select a dataset, define a problem statement, and conduct an analysis, culminating in a final presentation of your findings at the end of the semester.
+There is one (1) group project, completed in three phases, in which you will collaborate with 2-5 classmates. Your group will select a dataset, define a problem statement, and conduct an analysis, culminating in a final presentation of your findings at the end of the semester.
 
 ### Exams
 Both exams are completed by yourself with no collaboration/communication with any other students. Exam 1 is an in-class exam. The use of computers is **not** allowed, but you may bring one page of notes. Exam 2 must be taken on the last class meeting day. The exam will be administered remotely, is open-computer and open-notes, and will be timed at 2 hours and 50 minutes. No late exams are permitted, except for extenuating circumstances. Please reach out as early as possible if you know something will prevent you from attending class on exam dates.     
