@@ -10,7 +10,7 @@
 ### Class Agenda
 
 - [Ensembles Slides]({{ content_links().Ensembles }})
-- [Ensembles Tutoral](../resources/tutorials/10_ensembles_tutorial.ipynb)
+- [Ensembles Tutorial](../resources/tutorials/10_ensembles_tutorial.ipynb)
 - `[5 min]` Break (Optional)
 - In Class Time for [CP4_Ensembles]({{ content_links().CP4_Ensembles }})
 
