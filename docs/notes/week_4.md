@@ -18,4 +18,4 @@
 
 ### Additional Resources
 
-- [Chapter 15 Code Examples](../resources/textbook/ch15_code_examples.ipynb)
+- [Course Repo]({{ course_info().repo }})

@@ -19,5 +19,5 @@
 
 ### Additional Resources
 
-- [Chapter 9 Code Examples](../resources/textbook/ch9_code_examples.ipynb)
 - [HW2_Decision_Trees_Worksheet]({{ content_links().Decision_Trees_Worksheet }})
+- [Course Repo]({{ course_info().repo }})

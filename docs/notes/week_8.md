@@ -21,5 +21,5 @@
 
 ### Additional Resources
 
-- [Chapter 8 Code Examples](../resources/textbook/ch8_code_examples.ipynb)
 - [HW3_Naive_Bayes_Worksheet]({{ content_links().Naive_Bayes_Worksheet }})
+- [Course Repo]({{ course_info().repo }})

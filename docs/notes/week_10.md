@@ -16,7 +16,7 @@
 
 ### Task List
 
-- [x] **Required** Reading: Chapter 13 - Combining Methods: Ensembles and Uplift Modeling
+- [x] **Required** Reading: Chapter 13 - Generating, Comparing, and Combining Multiple Models
 - [x] **Complete** and **Submit** [CP4_Ensembles]({{ content_links().CP4_Ensembles }}) on Canvas.
 - [x] Start working on [PA4_Credit_Card_Attrition_P1]({{ content_links().PA4_Credit_Card_Attrition_P1 }})
 - [x] Start working on [GP1_Project_Proposal]({{ content_links().GP1_Project_Proposal }})
@@ -24,3 +24,4 @@
 ### Additional Resources
 
 - [CP4_Ensembles_Worksheet]({{ content_links().Ensembles_Worksheet }})
+- [Course Repo]({{ course_info().repo }})

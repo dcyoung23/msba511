@@ -19,4 +19,4 @@
 
 ### Additional Resources
 
-- [Chapter 9 Code Examples](../resources/textbook/ch10_code_examples.ipynb)
+- [Course Repo]({{ course_info().repo }})

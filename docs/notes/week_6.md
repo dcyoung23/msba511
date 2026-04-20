@@ -21,5 +21,5 @@
 
 ### Additional Resources
 
-- [Chapter 5 Code Examples](../resources/textbook/ch5_code_examples.ipynb)
 - [CP3_Evaluating_Classifiers_Worksheet]({{ content_links().Evaluating_Classifiers_Worksheet }})
+- [Course Repo]({{ course_info().repo }})

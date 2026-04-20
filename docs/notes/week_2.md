@@ -25,5 +25,5 @@
 ### Additional Resources
 
 - [Python Conda Environment Setup](../resources/python/cl_cheatsheet.md)
-- [Chapter 16 Code Examples](../resources/textbook/ch16_code_examples.ipynb)
 - [CP1_Cluster_Analysis_Worksheet]({{ content_links().Cluster_Analysis_Worksheet }})
+- [Course Repo]({{ course_info().repo }})

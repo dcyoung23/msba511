@@ -20,5 +20,6 @@
 
 ### Additional Resources
 
-[Machine Learning for Business Analytics: Concepts, Techniques and Applications in Python 2nd Edition](https://a.co/d/gzkDNGw)
-[HW1_Association_Rules_Worksheet]({{ content_links().Association_Rules_Worksheet }})
+- [Machine Learning for Business Analytics: Concepts, Techniques and Applications in Python 2nd Edition](https://a.co/d/gzkDNGw)
+- [HW1_Association_Rules_Worksheet]({{ content_links().Association_Rules_Worksheet }})
+- [Course Repo]({{ course_info().repo }})
