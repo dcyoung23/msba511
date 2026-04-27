@@ -7,15 +7,16 @@
     
 ### Class Agenda
 
-- [Text Mining Slides](https://github.com/dcyoung23/msba511/blob/main/lectures/12_Text_Mining.pdf)
+- [Text Mining Slides]({{ content_links().Text_Mining }})
+- [Text Mining Tutorial](../resources/tutorials/12_text_mining_tutorial.ipynb)
 - `[5 min]` Break (Optional)
-- Class Time - Work on Group Project
+- In Class Time for [HW5_Text_Mining]({{ content_links().HW5_Text_Mining }})
 
 ### Task List
 
-- [x] **Required** Reading: Chapter 20 - Text Mining
-- [x] **Complete** and **Submit** 1_Project_Modeling and 2_Project_Presentation on Canvas before next class May 12 4:00PM.
+- [x] **Required** Reading: Chapter 21 - Text Mining
+- [x] **Complete** and **Submit** [HW5_Text_Mining]({{ content_links().HW5_Text_Mining }}) on **Canvas**.
 
 ### Additional Resources
 
-- [Chapter 20 Code Examples](../resources/textbook/ch20_code_examples.md)
+- [Course Repo]({{ course_info().repo }})

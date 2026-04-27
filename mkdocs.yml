@@ -16,7 +16,7 @@ nav:
     - Week 9 - Logistic Regression: notes/week_9.md
     - Week 10 - Ensembles: notes/week_10.md
     - Week 11 - Uplift Modeling: notes/week_11.md
-    #- Week 12 - Text Mining: notes/week_12.md
+    - Week 12 - Text Mining: notes/week_12.md
   - Resources:
     - Python:
       - Command Line Cheatsheet: resources/python/cl_cheatsheet.md
@@ -27,6 +27,7 @@ nav:
       - Logistic Regression: resources/tutorials/09_logistic_regression_tutorial.ipynb
       - Ensembles: resources/tutorials/10_ensembles_tutorial.ipynb
       - Uplift Modeling: resources/tutorials/11_uplift_modeling_tutorial.ipynb
+      - Text Mining: resources/tutorials/12_text_mining_tutorial.ipynb
 theme:
   name: material
   logo: assets/images/logo.png
