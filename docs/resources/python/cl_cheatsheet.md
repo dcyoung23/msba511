@@ -13,7 +13,9 @@
 | `pip install pandas==2.0`                          | Use pip to install a specific version of a package in the current environment.                                                 |
 | `pip install "pandas<2.0"`                         | Use pip to install the version less than a specific version of a package in the current environment. ℹ️ Double Quotes are required.                         |
 | `pip install --upgrade pandas`                     | Use pip to upgrade to the current version of a package in the current environment.                                             |
-| `pip uninstall pandas`                             | Use pip to uninstall a package from the current environment.                                             |
+| `pip uninstall pandas`                             | Use pip to uninstall a package from the current environment.                                                                   |
+| `pip install -r requirements.txt`                  | Use pip to install packages from a `requirements.txt` file.                                                                    |
+
 
 
 
