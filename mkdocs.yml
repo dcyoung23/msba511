@@ -12,12 +12,15 @@ nav:
     - Week 4 - Collaborative Filtering: notes/week_4.md
     - Week 5 - Decision Trees: notes/week_5.md
     - Week 6 - Evaluating Classifiers: notes/week_6.md
+    - Week 7 - Exam 1: notes/week_7.md
     - Week 8 - Naive Bayes: notes/week_8.md
     - Week 9 - Logistic Regression: notes/week_9.md
     - Week 10 - Ensembles: notes/week_10.md
     - Week 11 - Uplift Modeling: notes/week_11.md
     - Week 12 - Text Mining: notes/week_12.md
     - Week 13 - Hackathon: notes/week_13.md
+    - Week 14 - Group Presentations: notes/week_14.md
+    - Week 15 - Exam 2: notes/week_15.md
   - Resources:
     - Python:
       - Command Line Cheatsheet: resources/python/cl_cheatsheet.md

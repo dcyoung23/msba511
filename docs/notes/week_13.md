@@ -7,3 +7,12 @@
 ### Class Agenda
 
 - [Hackathon Event]({{ content_links().Hackathon }})
+
+### Task List
+
+- [x] **Complete** and **Submit** [GP2_Project_Modeling]({{ content_links().GP2_Project_Modeling }}) on **Canvas**.
+- [x] **Complete** and **Submit** [GP3_Project_Presentation]({{ content_links().GP3_Project_Presentation }}) on **Canvas**.
+
+### Additional Resources
+
+- [Course Repo]({{ course_info().repo }})
