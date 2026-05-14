@@ -6,7 +6,7 @@
 
 ### Task List
 
-- [x] **Prepare for** [Exam 2]({{ content_links().Exam_2 }}) on **Canvas**.
+- [x] **Prepare for** [Exam 2]({{ content_links().Exam_2 }}).
 
 ### Additional Resources
 
